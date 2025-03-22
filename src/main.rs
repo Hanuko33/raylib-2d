@@ -141,5 +141,4 @@ fn main() {
         }
         d.draw_fps(10, 10);
     }
-    println!("Hello, world!");
 }
